@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/animation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/animation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/animation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expance/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expance/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expance/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expanses_tracker/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expanses_tracker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expanses_tracker/build" />
+      <excludeFolder url="file://$MODULE_DIR$/login/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/login/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/login/build" />
+      <excludeFolder url="file://$MODULE_DIR$/practice_123/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/practice_123/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/practice_123/build" />
+      <excludeFolder url="file://$MODULE_DIR$/practice_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/practice_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/practice_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/sign/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/sign/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/sign/build" />
+      <excludeFolder url="file://$MODULE_DIR$/stuedent_page/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/stuedent_page/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/stuedent_page/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tezash/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/tezash/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tezash/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ui/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
